@@ -157,16 +157,10 @@ python microsoft_store_project.py
 
 ---
 
-## 📚 Course Context
-
-This project was completed as part of the online course  
-"Data Analysis with Python: Zero to Pandas" by Jovian.
-
----
-
 ## 📚 Acknowledgements
 
-- Course: Data Analysis with Python – Zero to Pandas (Jovian)
+This project was completed as part of the online course "Data Analysis with Python: Zero to Pandas" by Jovian.
+
 - Dataset: Kaggle (Windows Store dataset)
 
 
